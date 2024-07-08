@@ -21,7 +21,6 @@ MySQL is an open-source relational database management system (RDBMS). SQL (Stru
 ### 1. Connecting to a Database
 Before performing any operations, you need to connect to the MySQL server and select a database.
 
-```sql
 USE database_name;
 Select * From _Database name_
 
