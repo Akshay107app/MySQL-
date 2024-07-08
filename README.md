@@ -1,2 +1,2 @@
 # MySQL-
-Presentation and Hands on experience on SQL
+Presentation and Hands on project experience.
