@@ -24,3 +24,9 @@ Before performing any operations, you need to connect to the MySQL server and se
 ```sql
 USE database_name;
 Select * From _Database name_
+
+###2. **Creating a Database**
+Create a new database using the `CREATE DATABASE` statement.
+
+
+CREATE DATABASE my_database;
